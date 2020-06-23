@@ -18,7 +18,3 @@ if __name__ == "__main__":
 		myString = scrape(url)
 		f.write(myString)
 	f.close()
-
-
-
-	
